@@ -5,7 +5,7 @@
 
 **The role?** Work with the CEO to identify and independently execute high impact week-scale engineering projects — from custom tools and clever integrations to moonshot prototypes and data explorations. You will work hard, build cool things, and have a massive impact. Along the way, you will learn a physicist's approach to building and scaling a VC-backed tech company.
 
-**The company?** Remesh was founded in 2014 to give communities a collectively intelligent voice. Our product uses machine learning to scale the open-ended dynamics of live 1-to-1 conversation to a statistically relevant N-to-1 paradigm. It is used by the worlds largest brands, consultancies, governments, and NGOs to engage and understand customers, employees, citizens, and populations. Our business has grown over 2x every year and we've raised $40m+ in funding. We are now a team of 100+ of the worlds most talented pragmatic altruists.
+**The company?** Remesh was founded in 2014 to give communities a collectively intelligent voice. Our product uses [machine learning](https://aiforsocialgood.github.io/neurips2019/accepted/track1/pdfs/105_aisg_neurips2019.pdf) to scale the open-ended dynamics of live 1-to-1 conversation to a statistically relevant N-to-1 paradigm. It is used by the worlds largest brands, consultancies, governments, and NGOs to engage and understand customers, employees, citizens, and populations. Our business has grown over 2x every year and we've raised $40m+ in funding. We are now a team of 100+ of the worlds most talented pragmatic altruists.
 
 **Requirements:**
 
