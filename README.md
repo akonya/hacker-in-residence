@@ -1,5 +1,5 @@
 # hacker-in-residence
-I am looking for an ambitious mercenary software engineer who wants to work directly with a technical CEO.
+[I](https://www.linkedin.com/in/andrewkonya/) am looking for an ambitious mercenary software engineer who wants to work directly with a [technical CEO](https://scholar.google.com/citations?user=9JlvqbQAAAAJ&hl=en).
 
 **The ideal person?** You are pragmatic and enjoy rapid prototyping. You can build nearly anything from scratch but take more pride in using frameworks, libraries, and tools to build things FAST. You see short cuts as strength, not weakness. You've independently built a wide range of cool things and may have won a hackathon. You are deeply entrepreneurial and may already be thinking about starting your own company. 
 
@@ -26,3 +26,13 @@ I am looking for an ambitious mercenary software engineer who wants to work dire
 4. Suprisingly good design chops
 5. Can work magic with D3
 6. Experience with NumPy, Keras, Tensorflow, Torch, etc
+
+**Benifits:**
+1. Work-from-anywhere 
+2. Competitive comp
+2. Solid medical/dental/vision coverage
+3. 401K plan
+
+
+**Interested?** [Click here](https://remesh.ai/careers/?gh_jid=5032158002) to see the 'HR approved' job description and apply. 
+
