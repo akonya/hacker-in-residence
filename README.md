@@ -34,5 +34,5 @@
 3. 401K plan
 
 
-**Interested?** [Click here](https://remesh.ai/careers/?gh_jid=5032158002) to see the 'HR approved' job description and apply. 
+**Interested?** [Click here](https://remesh.ai/careers/?gh_jid=5032158002) to see the formal job description and apply. 
 
